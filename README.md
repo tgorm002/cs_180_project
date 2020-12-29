@@ -4,25 +4,16 @@ For this project my team and I were instructed to create a webiste that was able
 
 This first screenshot is our home page. The NBA logo in the top left corner takes the user back to the home page.
 
-![](images/home_page.png)
+![](images/home_screen.png)
 
+This second screenshot is the main page for our teams analytics. The user is prompted to enter a team's name and a year they played in. The website will then display all the details about each game the entered team has played for that year.
 
-For this project my team and I were instructed to create anything that could be sold as a product. We decided that we would create a product called RateYourSkills, which would give employees a way to inform their employer which programming languages they are strongest in and what projects they would like to work on. As a team, we found that employees who were interested and skilled in the project they were working on almost always produced better work.
+![](images/team_home_page.png)
 
-We created a basic website using python through the use of the Flask libraries, HTML, and CSS. Assuming that you do not have Flask installed on your computer, you cannot run the files. I have attached four screenshots below of what the website looks like. 
+This third screenshot is an example metric that we created for the teams in the NBA.
 
-This first screenshot is our home page.
+![](images/team_hype.png)
 
-![](images/screenshot1.png)
+This fourth screenshot is an example metric that we created for the players in the NBA.
 
-This second screenshot is the sign up page.
-
-![](images/screenshot2.png)
-
-This third screenshot is our log in page.
-
-![](images/screenshot3.png)
-
-This fourth screenshot is the page that will appear once the user has logged in. This page allows the user to input their information to submit to their employer. If the user wants, they can click on the links on this page to increase their programming skills in the languages shown below. 
-
-![](images/screenshot4.png)
+![](images/player_performance.png)
