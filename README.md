@@ -8,7 +8,7 @@ This first screenshot is our home page. The NBA logo in the top left corner take
 
 This second screenshot is the main page for our teams analytics. The user is prompted to enter a team's name and a year they played in. The website will then display all the details about each game the entered team has played for that year.
 
-![](images/team_home_page.png)
+![](images/teams_home_page.png)
 
 This third screenshot is an example metric that we created for the teams in the NBA.
 
